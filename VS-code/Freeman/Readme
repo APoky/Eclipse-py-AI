@@ -1,0 +1,9 @@
+mkdir my_python_project
+cd my_python_project
+
+python3 -m venv .venv 
+source .venv/bin/activate
+
+pip install opencv-python
+...
+pip install pyopencl

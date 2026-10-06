@@ -1,0 +1,7 @@
+{
+    "python-envs.pythonProjects": [],
+    "python.languageServer": "Pylance",
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.inlayHints.functionReturnTypes": true
+}

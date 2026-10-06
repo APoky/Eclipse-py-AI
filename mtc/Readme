@@ -1,0 +1,11 @@
+to create ve(virtual env)
+
+1
+python3 -m venv venv //create env in current dir
+source venv/bin/activate //activate env
+
+pip install yfinance //install yfinance packet
+
+2 Return to system env 
+deactivate
+
